@@ -39,7 +39,7 @@
 		"@synthetixio/transaction-notifier": "2.73.1",
 		"@synthetixio/wei": "2.73.1",
 		"@tippyjs/react": "4.1.0",
-		"@uniswap/widgets": "1.1.1",
+		"@uniswap/widgets": "2.51.2",
 		"axios": "0.21.2",
 		"bignumber.js": "9.0.0",
 		"bnc-onboard": "1.37.3",
